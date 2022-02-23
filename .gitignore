@@ -133,6 +133,9 @@ steps/
 ._*
 *vcf.gz*
 *vcf
+hg38*
+.fa
+.bed
 .gwf/
 software/
 results/
