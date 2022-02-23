@@ -1,0 +1,3 @@
+cf8c98ad5946172cd28bef6c892db6df  hg38.phyloP17way.wigFix.gz
+31d10885b60cdb54a3e3c2457e7aa541  hg38.phyloP17way.mod
+cb378288c602f55dec9918c58a9448e8  hg38.phyloP17way.bw

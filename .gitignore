@@ -142,4 +142,4 @@ results/
 sandbox/
 mmul_ref/
 dna/
-data/
+data/*/*

@@ -1,0 +1,526 @@
+Species,Mating.System,SocialSystem,NatalDispersal
+Gorilla_beringei,Harem Polygyny,Polygyny,NA
+Gorilla_gorilla,Harem Polygyny,Polygyny,Bisexual
+Pan_paniscus,Polygynandry,Polygynandry,Sexbiased
+Pan_troglodytes,Polygynandry,Polygynandry,Sexbiased
+Pongo_abelii,Spatial Polygyny,Solitary,Bisexual
+Pongo_pygmaeus,Spatial Polygyny,Solitary,Bisexual
+Pongo_tapanuliensis,NA,NA,NA
+Hoolock_hoolock,Monogamy,Pair,Bisexual
+Hoolock_leuconedys,NA,NA,NA
+Hoolock_tianxing,NA,NA,NA
+Hylobates_abbotti,NA,NA,NA
+Hylobates_agilis,Monogamy,Pair,Bisexual
+Hylobates_albibarbis,NA,NA,NA
+Hylobates_funereus,NA,NA,NA
+Hylobates_klossii,Monogamy,Pair,Bisexual
+Hylobates_lar,Monogamy,Pair,Bisexual
+Hylobates_moloch,Monogamy,Pair,Bisexual
+Hylobates_muelleri,Monogamy,Pair,Bisexual
+Hylobates_pileatus,Monogamy,Pair,Bisexual
+Nomascus_annamensis,NA,NA,NA
+Nomascus_concolor,Monogamy,Pair,Bisexual
+Nomascus_gabriellae,NA,Pair,Bisexual
+Nomascus_hainanus,NA,NA,NA
+Nomascus_leucogenys,NA,Pair,Bisexual
+Nomascus_nasutus,NA,NA,NA
+Nomascus_siki,NA,NA,NA
+Symphalangus_syndactylus,Monogamy,Pair,Bisexual
+Allenopithecus_nigroviridis,NA,Polygynandry,Sexbiased
+Allochrocebus_lhoesti,Harem Polygyny,Polygyny,Sexbiased
+Allochrocebus_preussi,NA,Polygyny,Sexbiased
+Allochrocebus_solatus,NA,Polygyny,Sexbiased
+Cercocebus_agilis,Polygynandry,Polygynandry,Sexbiased
+Cercocebus_atys,Polygynandry,Polygynandry,NA
+Cercocebus_chrysogaster,NA,NA,NA
+Cercocebus_galeritus,Polygynandry,Polygynandry,Sexbiased
+Cercocebus_lunulatus,NA,NA,NA
+Cercocebus_sanjei,NA,NA,NA
+Cercocebus_torquatus,NA,Polygynandry,Sexbiased
+Cercopithecus_albogularis,NA,NA,NA
+Cercopithecus_ascanius,Harem Polygyny,Polygyny,Sexbiased
+Cercopithecus_campbelli,Harem Polygyny,Polygyny,NA
+Cercopithecus_cephus,Harem Polygyny,Polygyny,Sexbiased
+Cercopithecus_denti,NA,NA,NA
+Cercopithecus_diana,Harem Polygyny,Polygyny,Sexbiased
+Cercopithecus_doggetti,NA,NA,NA
+Cercopithecus_dryas,NA,NA,NA
+Cercopithecus_erythrogaster,NA,Polygyny,Sexbiased
+Cercopithecus_erythrotis,NA,Polygyny,Sexbiased
+Cercopithecus_hamlyni,NA,Polygyny,Sexbiased
+Cercopithecus_kandti,NA,NA,NA
+Cercopithecus_lomamiensis,NA,NA,NA
+Cercopithecus_lowei,NA,NA,Sexbiased
+Cercopithecus_mitis,Harem Polygyny,Polygynandry,Sexbiased
+Cercopithecus_mona,Harem Polygyny,Polygyny,Sexbiased
+Cercopithecus_neglectus,Harem Polygyny,Polygyny,Sexbiased
+Cercopithecus_nictitans,Harem Polygyny,Polygyny,Sexbiased
+Cercopithecus_petaurista,NA,Polygyny,Sexbiased
+Cercopithecus_pogonias,Harem Polygyny,Polygyny,NA
+Cercopithecus_roloway,NA,NA,NA
+Cercopithecus_sclateri,NA,NA,NA
+Cercopithecus_wolfi,NA,Polygyny,Sexbiased
+Chlorocebus_aethiops,Polygynandry,Polygynandry,Sexbiased
+Chlorocebus_cynosuros,NA,NA,NA
+Chlorocebus_djamdjamensis,NA,NA,NA
+Chlorocebus_pygerythrus,Polygynandry,Polygynandry,Sexbiased
+Chlorocebus_sabaeus,NA,Polygynandry,Sexbiased
+Chlorocebus_tantalus,NA,Polygynandry,Sexbiased
+Colobus_angolensis,Harem Polygyny,Polygynandry,Bisexual
+Colobus_guereza,Harem Polygyny,Polygynandry,Sexbiased
+Colobus_polykomos,Harem Polygyny,Polygynandry,Bisexual
+Colobus_satanas,Polygynandry,Polygynandry,NA
+Colobus_vellerosus,NA,NA,NA
+Erythrocebus_patas,Harem Polygyny,Polygyny,Sexbiased
+Erythrocebus_poliophaeus,NA,NA,NA
+Lophocebus_albigena,Polygynandry,Polygynandry,Sexbiased
+Lophocebus_aterrimus,Polygynandry,Polygynandry,NA
+Lophocebus_johnstoni,NA,NA,NA
+Lophocebus_opdenboschi,NA,NA,NA
+Lophocebus_osmani,NA,NA,NA
+Lophocebus_ugandae,NA,NA,NA
+Macaca_arctoides,Polygynandry,Polygynandry,Sexbiased
+Macaca_assamensis,NA,Polygynandry,Sexbiased
+Macaca_cyclopis,NA,Polygynandry,Sexbiased
+Macaca_fascicularis,Polygynandry,Polygynandry,Sexbiased
+Macaca_fuscata,Polygynandry,Polygynandry,Sexbiased
+Macaca_hecki,NA,Polygynandry,Sexbiased
+Macaca_leonina,NA,Polygynandry,Sexbiased
+Macaca_leucogenys,NA,NA,NA
+Macaca_maura,NA,Polygynandry,Sexbiased
+Macaca_mulatta,Polygynandry,Polygynandry,Sexbiased
+Macaca_munzala,NA,NA,NA
+Macaca_nemestrina,Polygynandry,Polygynandry,Sexbiased
+Macaca_nigra,Polygynandry,Polygynandry,Sexbiased
+Macaca_nigrescens,NA,Polygynandry,Sexbiased
+Macaca_ochreata,NA,Polygynandry,Sexbiased
+Macaca_pagensis,NA,Polygyny,Sexbiased
+Macaca_radiata,Polygynandry,Polygynandry,Sexbiased
+Macaca_siberu,NA,NA,NA
+Macaca_silenus,Polygynandry,Polygynandry,Sexbiased
+Macaca_sinica,Polygynandry,Polygynandry,Sexbiased
+Macaca_sylvanus,Polygynandry,Polygynandry,Sexbiased
+Macaca_thibetana,NA,Polygynandry,Sexbiased
+Macaca_tonkeana,NA,Polygynandry,Sexbiased
+Mandrillus_leucophaeus,Polygynandry,Polygynandry,Sexbiased
+Mandrillus_sphinx,Polygynandry,Polygynandry,Sexbiased
+Miopithecus_ogouensis,NA,NA,NA
+Miopithecus_talapoin,Polygynandry,Polygynandry,Sexbiased
+Nasalis_larvatus,Harem Polygyny,Polygynandry,Bisexual
+Papio_anubis,Polygynandry,Polygynandry,Sexbiased
+Papio_cynocephalus,Polygynandry,Polygynandry,Sexbiased
+Papio_hamadryas,Harem Polygyny,Polygynandry,Bisexual
+Papio_kindae,NA,NA,NA
+Papio_papio,Harem Polygyny,Polygynandry,Sexbiased
+Papio_ursinus,Polygynandry,Polygynandry,Sexbiased
+Piliocolobus_badius,Polygynandry,Polygynandry,Bisexual
+Piliocolobus_bouvieri,NA,NA,NA
+Piliocolobus_epieni,NA,NA,NA
+Piliocolobus_foai,NA,NA,NA
+Piliocolobus_gordonorum,NA,NA,NA
+Piliocolobus_kirkii,NA,NA,NA
+Piliocolobus_langi,NA,NA,NA
+Piliocolobus_lulindicus,NA,NA,NA
+Piliocolobus_oustaleti,NA,NA,NA
+Piliocolobus_parmentieri,NA,NA,NA
+Piliocolobus_pennantii,NA,NA,NA
+Piliocolobus_preussi,NA,NA,NA
+Piliocolobus_rufomitratus,NA,NA,NA
+Piliocolobus_semlikiensis,NA,NA,NA
+Piliocolobus_temminckii,NA,NA,NA
+Piliocolobus_tephrosceles,NA,NA,NA
+Piliocolobus_tholloni,NA,NA,NA
+Piliocolobus_waldronae,NA,NA,NA
+Presbytis_bicolor,NA,NA,NA
+Presbytis_canicrus,NA,NA,NA
+Presbytis_chrysomelas,NA,NA,NA
+Presbytis_comata,Harem Polygyny,Polygyny,NA
+Presbytis_femoralis,NA,NA,NA
+Presbytis_frontata,NA,NA,NA
+Presbytis_hosei,NA,NA,NA
+Presbytis_melalophos,Harem Polygyny,Polygynandry,Bisexual
+Presbytis_mitrata,NA,NA,NA
+Presbytis_natunae,NA,NA,NA
+Presbytis_potenziani,NA,NA,NA
+Presbytis_rubicunda,NA,NA,NA
+Presbytis_sabana,NA,NA,NA
+Presbytis_siamensis,NA,NA,NA
+Presbytis_siberu,NA,NA,NA
+Presbytis_sumatrana,NA,NA,NA
+Presbytis_thomasi,NA,NA,NA
+Procolobus_verus,Polygynandry,Polygynandry,NA
+Pygathrix_cinerea,NA,NA,NA
+Pygathrix_nemaeus,Harem Polygyny,Polygynandry,Bisexual
+Pygathrix_nigripes,NA,NA,NA
+Rhinopithecus_avunculus,NA,Polygyny,Bisexual
+Rhinopithecus_bieti,NA,Polygyny,Bisexual
+Rhinopithecus_brelichi,NA,Polygyny,Bisexual
+Rhinopithecus_roxellana,NA,Polygynandry,Bisexual
+Rhinopithecus_strykeri,NA,NA,NA
+Rungwecebus_kipunji,NA,Polygynandry,Sexbiased
+Semnopithecus_ajax,NA,NA,NA
+Semnopithecus_entellus,Harem Polygyny,Polygynandry,Bisexual
+Semnopithecus_hector,NA,NA,NA
+Semnopithecus_hypoleucos,NA,NA,NA
+Semnopithecus_johnii,Harem Polygyny,Polygynandry,Bisexual
+Semnopithecus_priam,NA,NA,NA
+Semnopithecus_schistaceus,NA,NA,NA
+Semnopithecus_vetulus,Harem Polygyny,Polygyny,NA
+Simias_concolor,NA,NA,NA
+Theropithecus_gelada,Harem Polygyny,Polygynandry,Sexbiased
+Trachypithecus_auratus,NA,Polygyny,Bisexual
+Trachypithecus_barbei,NA,NA,NA
+Trachypithecus_crepusculus,NA,NA,NA
+Trachypithecus_cristatus,Harem Polygyny,Polygynandry,Bisexual
+Trachypithecus_delacouri,NA,NA,NA
+Trachypithecus_ebenus,NA,NA,NA
+Trachypithecus_francoisi,NA,Polygyny,Bisexual
+Trachypithecus_geei,NA,Polygyny,NA
+Trachypithecus_germaini,NA,NA,NA
+Trachypithecus_hatinhensis,NA,NA,NA
+Trachypithecus_laotum,NA,NA,NA
+Trachypithecus_leucocephalus,NA,NA,NA
+Trachypithecus_margarita,NA,NA,NA
+Trachypithecus_mauritius,NA,NA,NA
+Trachypithecus_obscurus,Harem Polygyny,Polygynandry,Bisexual
+Trachypithecus_phayrei,Harem Polygyny,Polygyny,Bisexual
+Trachypithecus_pileatus,Harem Polygyny,Polygyny,Bisexual
+Trachypithecus_poliocephalus,NA,Polygyny,Bisexual
+Trachypithecus_selangorensis,NA,NA,NA
+Trachypithecus_shortridgei,NA,NA,NA
+Aotus_azarae,Monogamy,Pair,Bisexual
+Aotus_brumbacki,NA,NA,NA
+Aotus_griseimembra,NA,NA,Bisexual
+Aotus_jorgehernandezi,NA,NA,NA
+Aotus_lemurinus,Monogamy,Pair,NA
+Aotus_miconax,NA,NA,NA
+Aotus_nancymaae,NA,Pair,Bisexual
+Aotus_nigriceps,NA,NA,NA
+Aotus_trivirgatus,Monogamy,Pair,Bisexual
+Aotus_vociferans,NA,NA,NA
+Aotus_zonalis,NA,NA,NA
+Alouatta_arctoidea,NA,NA,NA
+Alouatta_belzebul,NA,NA,NA
+Alouatta_caraya,Harem Polygyny,Polygynandry,Bisexual
+Alouatta_discolor,NA,NA,NA
+Alouatta_guariba,NA,Polygyny,NA
+Alouatta_macconnelli,NA,NA,NA
+Alouatta_nigerrima,NA,NA,NA
+Alouatta_palliata,Harem Polygyny,Polygynandry,Bisexual
+Alouatta_pigra,Harem Polygyny,Polygynandry,Bisexual
+Alouatta_sara,NA,Polygynandry,Bisexual
+Alouatta_seniculus,Harem Polygyny,Polygynandry,Bisexual
+Alouatta_ululata,NA,NA,NA
+Ateles_belzebuth,Polygynandry,Polygynandry,Sexbiased
+Ateles_chamek,NA,NA,NA
+Ateles_fusciceps,Polygynandry,Polygynandry,Sexbiased
+Ateles_geoffroyi,Polygynandry,Polygynandry,Sexbiased
+Ateles_hybridus,NA,NA,NA
+Ateles_marginatus,NA,NA,NA
+Ateles_paniscus,Polygynandry,Polygynandry,Sexbiased
+Brachyteles_arachnoides,Polygynandry,Polygynandry,Sexbiased
+Brachyteles_hypoxanthus,NA,NA,NA
+Lagothrix_cana,NA,NA,NA
+Lagothrix_flavicauda,NA,NA,NA
+Lagothrix_lagotricha,Polygynandry,Polygynandry,Sexbiased
+Lagothrix_poeppigii,NA,NA,NA
+Lagotrix_lugens,NA,NA,NA
+Callibella_humilis,NA,NA,NA
+Callimico_goeldii,Monogamy,Pair,Bisexual
+Callithrix_aurita,NA,Pair,Bisexual
+Callithrix_flaviceps,NA,NA,NA
+Callithrix_geoffroyi,Monogamy,Pair,Bisexual
+Callithrix_jacchus,Polyandry,Pair,Bisexual
+Callithrix_kuhlii,NA,Pair,Bisexual
+Callithrix_penicillata,Monogamy,Pair,Bisexual
+Cebuella_niveiventris,NA,NA,NA
+Cebuella_pygmaea,Polyandry,Pair,Bisexual
+Leontocebus_cruzlimai,NA,NA,NA
+Leontocebus_fuscicollis,Polyandry,Pair,Bisexual
+Leontocebus_fuscus,NA,NA,NA
+Leontocebus_illigeri,NA,NA,NA
+Leontocebus_lagonotus,NA,NA,NA
+Leontocebus_leucogenys,NA,NA,NA
+Leontocebus_nigricollis,NA,NA,NA
+Leontocebus_nigrifrons,NA,NA,NA
+Leontocebus_tripartitus,NA,NA,NA
+Leontocebus_weddelli,NA,NA,NA
+Leontopithecus_caissara,NA,NA,NA
+Leontopithecus_chrysomelas,Monogamy,Pair,Bisexual
+Leontopithecus_chrysopygus,NA,Pair,Bisexual
+Leontopithecus_rosalia,Monogamy,Pair,Bisexual
+Mico_acariensis,NA,NA,NA
+Mico_argentatus,Monogamy,Pair,Bisexual
+Mico_chrysoleucos,NA,NA,NA
+Mico_emiliae,NA,Pair,Bisexual
+Mico_humeralifer,NA,Pair,Bisexual
+Mico_humilis,NA,NA,NA
+Mico_intermedius,NA,NA,NA
+Mico_leucippe,NA,NA,NA
+Mico_marcai,NA,NA,NA
+Mico_mauesi,NA,NA,NA
+Mico_melanurus,NA,NA,NA
+Mico_nigriceps,NA,NA,NA
+Mico_rondoni,NA,NA,NA
+Mico_saterei,NA,NA,NA
+Saguinus_bicolor,NA,NA,NA
+Saguinus_geoffroyi,Monogamy,Pair,Bisexual
+Saguinus_imperator,NA,Pair,Bisexual
+Saguinus_inustus,NA,NA,NA
+Saguinus_labiatus,NA,NA,NA
+Saguinus_leucopus,NA,NA,NA
+Saguinus_martinsi,NA,NA,NA
+Saguinus_midas,Polyandry,Pair,Bisexual
+Saguinus_mystax,NA,NA,NA
+Saguinus_niger,NA,NA,NA
+Saguinus_oedipus,Polyandry,Pair,Bisexual
+Saguinus_ursulus,NA,NA,NA
+Cebus_aequatorialis,NA,NA,NA
+Cebus_albifrons,Polygynandry,Polygynandry,Sexbiased
+Cebus_brunneus,NA,NA,NA
+Cebus_capucinus,Harem Polygyny,Polygynandry,Sexbiased
+Cebus_cesarae,NA,NA,NA
+Cebus_cuscinus,NA,NA,NA
+Cebus_imitator,NA,NA,NA
+Cebus_kaapori,NA,NA,NA
+Cebus_leucocephalus,NA,NA,NA
+Cebus_malitiosus,NA,NA,NA
+Cebus_olivaceus,Polygynandry,Polygynandry,NA
+Cebus_unicolor,NA,NA,NA
+Cebus_versicolor,NA,NA,NA
+Cebus_yuracus,NA,NA,NA
+Saimiri_boliviensis,NA,Polygynandry,Sexbiased
+Saimiri_cassiquiarensis,NA,NA,NA
+Saimiri_collinsi,NA,NA,NA
+Saimiri_macrodon,NA,Polygynandry,NA
+Saimiri_oerstedii,Polygynandry,Polygynandry,Sexbiased
+Saimiri_sciureus,Polygynandry,Polygynandry,Bisexual
+Saimiri_ustus,NA,NA,NA
+Saimiri_vanzolinii,NA,NA,NA
+Sapajus_apella,Polygynandry,Polygynandry,Sexbiased
+Sapajus_cay,NA,NA,NA
+Sapajus_flavius,NA,NA,NA
+Sapajus_libidinosus,NA,NA,NA
+Sapajus_macrocephalus,NA,NA,NA
+Sapajus_nigritus,NA,NA,NA
+Sapajus_robustus,NA,NA,NA
+Sapajus_xanthosternos,NA,NA,NA
+Cacajao_ayresi,NA,NA,NA
+Cacajao_calvus,Harem Polygyny,Polygynandry,NA
+Cacajao_hosomi,NA,NA,NA
+Cacajao_melanocephalus,NA,NA,NA
+Cacajao_ouakary,NA,NA,NA
+Callicebus_barbarabrownae,NA,NA,NA
+Callicebus_coimbrai,NA,NA,NA
+Callicebus_melanochir,NA,NA,NA
+Callicebus_nigrifrons,NA,NA,NA
+Callicebus_personatus,NA,NA,NA
+Cheracebus_lucifer,NA,NA,NA
+Cheracebus_lugens,NA,NA,NA
+Cheracebus_medemi,NA,NA,NA
+Cheracebus_purinus,NA,NA,NA
+Cheracebus_regulus,NA,NA,NA
+Cheracebus_torquatus,Monogamy,Pair,NA
+Chiropotes_albinasus,NA,NA,NA
+Chiropotes_chiropotes,NA,NA,NA
+Chiropotes_sagulatus,NA,NA,NA
+Chiropotes_satanas,Polygynandry,Polygynandry,NA
+Chiropotes_utahickae,NA,NA,NA
+Pithecia_aequatorialis,NA,NA,NA
+Pithecia_albicans,NA,NA,NA
+Pithecia_cazuzai,NA,NA,NA
+Pithecia_chrysocephala,NA,NA,NA
+Pithecia_hirsuta,NA,NA,NA
+Pithecia_inusta,NA,NA,NA
+Pithecia_irrorata,NA,NA,NA
+Pithecia_isabela,NA,NA,NA
+Pithecia_milleri,NA,NA,NA
+Pithecia_mittermeieri,NA,NA,NA
+Pithecia_monachus,NA,NA,NA
+Pithecia_napensis,NA,NA,NA
+Pithecia_pissinattii,NA,NA,NA
+Pithecia_pithecia,Polygynandry,Polygynandry,NA
+Pithecia_rylandsi,NA,NA,NA
+Pithecia_vanzolinii,NA,NA,NA
+Plecturocebus_aureipalatii,NA,NA,NA
+Plecturocebus_baptista,NA,NA,NA
+Plecturocebus_bernhardi,NA,NA,NA
+Plecturocebus_brunneus,NA,NA,NA
+Plecturocebus_caligatus,NA,NA,NA
+Plecturocebus_caquetensis,NA,NA,NA
+Plecturocebus_cinerascens,NA,NA,NA
+Plecturocebus_cupreus,NA,NA,NA
+Plecturocebus_discolor,NA,NA,NA
+Plecturocebus_donacophilus,NA,Pair,Bisexual
+Plecturocebus_hoffmannsi,NA,NA,NA
+Plecturocebus_miltoni,NA,NA,NA
+Plecturocebus_modestus,NA,NA,NA
+Plecturocebus_moloch,Monogamy,Pair,Bisexual
+Plecturocebus_oenanthe,NA,NA,NA
+Plecturocebus_olallae,NA,NA,NA
+Plecturocebus_ornatus,NA,NA,NA
+Plecturocebus_pallescens,NA,NA,NA
+Plecturocebus_stephennashi,NA,NA,NA
+Plecturocebus_toppini,NA,NA,NA
+Plecturocebus_urubambensis,NA,NA,NA
+Plecturocebus_vieirai,NA,NA,NA
+Allocebus_trichotis,NA,Pair,Bisexual
+Cheirogaleus_andysabini,NA,NA,NA
+Cheirogaleus_crossleyi,NA,NA,NA
+Cheirogaleus_lavasoensis,NA,NA,NA
+Cheirogaleus_major,Spatial Polygyny,Solitary,Bisexual
+Cheirogaleus_medius,Monogamy,Solitary,Bisexual
+Cheirogaleus_minusculus,NA,NA,NA
+Cheirogaleus_shethi,NA,NA,NA
+Cheirogaleus_sibreei,NA,NA,NA
+Cheirogaleus_thomasi,NA,NA,NA
+Microcebus_arnholdi,NA,NA,NA
+Microcebus_berthae,NA,NA,NA
+Microcebus_bongolavensis,NA,NA,NA
+Microcebus_boraha,NA,NA,NA
+Microcebus_danfossi,NA,NA,NA
+Microcebus_ganzhorni,NA,NA,NA
+Microcebus_gerpi,NA,NA,NA
+Microcebus_griseorufus,NA,NA,NA
+Microcebus_jollyae,NA,NA,NA
+Microcebus_lehilahytsara,NA,NA,NA
+Microcebus_macarthurii,NA,NA,NA
+Microcebus_mamiratra,NA,NA,NA
+Microcebus_manitatra,NA,NA,NA
+Microcebus_margotmarshae,NA,NA,NA
+Microcebus_marohita,NA,NA,NA
+Microcebus_mittermeieri,NA,NA,NA
+Microcebus_murinus,Spatial Polygyny,Solitary,Sexbiased
+Microcebus_myoxinus,NA,Solitary,NA
+Microcebus_ravelobensis,NA,Solitary,NA
+Microcebus_rufus,Spatial Polygyny,Solitary,Sexbiased
+Microcebus_sambiranensis,NA,NA,NA
+Microcebus_simmonsi,NA,NA,NA
+Microcebus_tanosi,NA,NA,NA
+Microcebus_tavaratra,NA,NA,NA
+Mirza_coquereli,Spatial Polygyny,Solitary,Sexbiased
+Mirza_zaza,NA,NA,NA
+Phaner_electromontis,NA,NA,NA
+Phaner_furcifer,NA,NA,NA
+Phaner_pallescens,NA,NA,NA
+Phaner_parienti,NA,NA,NA
+Daubentonia_madagascariensis,Spatial Polygyny,Solitary,Bisexual
+Euoticus_elegantulus,Spatial Polygyny,Solitary,Sexbiased
+Euoticus_pallidus,NA,NA,NA
+Galago_gallarum,NA,Solitary,NA
+Galago_matschiei,NA,NA,NA
+Galago_moholi,Spatial Polygyny,Solitary,Sexbiased
+Galago_senegalensis,Spatial Polygyny,Solitary,Sexbiased
+Galagoides_cocos,NA,NA,NA
+Galagoides_demidovii,Spatial Polygyny,Solitary,Sexbiased
+Galagoides_granti,NA,NA,NA
+Galagoides_kumbirensis,NA,NA,NA
+Galagoides_orinus,NA,NA,NA
+Galagoides_rondoensis,NA,NA,NA
+Galagoides_thomasi,NA,NA,NA
+Galagoides_zanzibaricus,Spatial Polygyny,Solitary,Bisexual
+Otolemur_crassicaudatus,Spatial Polygyny,Solitary,Sexbiased
+Otolemur_garnettii,Spatial Polygyny,Solitary,Sexbiased
+Paragalago _granti,NA,NA,NA
+Paragalago_cocos,NA,NA,NA
+Paragalago_orinus,NA,NA,NA
+Paragalago_rondoensis,NA,NA,NA
+Paragalago_zanzibaricus,NA,NA,NA
+Sciurocheirus_alleni,Spatial Polygyny,Solitary,Sexbiased
+Sciurocheirus_cameronensis,NA,NA,NA
+Sciurocheirus_gabonensis,NA,NA,NA
+Sciurocheirus_makandensis,NA,NA,NA
+Avahi_betsileo,NA,NA,NA
+Avahi_cleesei,NA,NA,NA
+Avahi_laniger,Monogamy,Pair,Bisexual
+Avahi_meridionalis,NA,NA,NA
+Avahi_mooreorum,NA,NA,NA
+Avahi_occidentalis,Monogamy,Pair,Bisexual
+Avahi_peyrierasi,NA,NA,NA
+Avahi_ramanantsoavanai,NA,NA,NA
+Avahi_unicolor,NA,NA,NA
+Indri_indri,Monogamy,Pair,Bisexual
+Propithecus_candidus,NA,NA,NA
+Propithecus_coquereli,NA,Polygynandry,Bisexual
+Propithecus_coronatus,NA,NA,NA
+Propithecus_deckenii,NA,NA,NA
+Propithecus_diadema,Polygynandry,Polygynandry,Bisexual
+Propithecus_edwardsi,NA,Polygynandry,Bisexual
+Propithecus_perrieri,NA,NA,NA
+Propithecus_tattersalli,NA,Polygynandry,Bisexual
+Propithecus_verreauxi,Polygynandry,Polygynandry,Bisexual
+Eulemur_albifrons,NA,Polygynandry,Sexbiased
+Eulemur_cinereiceps,NA,NA,NA
+Eulemur_collaris,NA,Polygynandry,Sexbiased
+Eulemur_coronatus,Polygynandry,Polygynandry,Bisexual
+Eulemur_flavifrons,NA,Polygynandry,Bisexual
+Eulemur_fulvus,Polygynandry,Polygynandry,Sexbiased
+Eulemur_macaco,Polygynandry,Polygynandry,Bisexual
+Eulemur_mongoz,Monogamy,Pair,Bisexual
+Eulemur_rubriventer,Monogamy,Pair,Bisexual
+Eulemur_rufifrons,NA,NA,NA
+Eulemur_rufus,NA,Polygynandry,"Sexbiased, Bisexual"
+Eulemur_sanfordi,NA,Polygynandry,Sexbiased
+Hapalemur_alaotrensis,NA,Pair,Bisexual
+Hapalemur_aureus,NA,Pair,Bisexual
+Hapalemur_griseus,Monogamy,Pair,Bisexual
+Hapalemur_meridionalis,NA,Pair,Bisexual
+Hapalemur_occidentalis,NA,Pair,Bisexual
+Lemur_catta,Polygynandry,Polygynandry,Sexbiased
+Prolemur_simus,NA,Polygynandry,Bisexual
+Varecia_rubra,NA,Polygynandry,Sexbiased
+Varecia_variegata,Monogamy,Pair,Sexbiased
+Lepilemur_aeeclis,NA,Solitary,NA
+Lepilemur_ahmansonorum,NA,NA,NA
+Lepilemur_ankaranensis,NA,Solitary,NA
+Lepilemur_betsileo,NA,NA,NA
+Lepilemur_dorsalis,NA,Solitary,Bisexual
+Lepilemur_edwardsi,NA,Solitary,Bisexual
+Lepilemur_fleuretae,NA,NA,NA
+Lepilemur_grewcockorum,NA,NA,NA
+Lepilemur_hollandorum,NA,NA,NA
+Lepilemur_hubbardi,NA,NA,NA
+Lepilemur_jamesorum,NA,NA,NA
+Lepilemur_leucopus,NA,Solitary,Bisexual
+Lepilemur_microdon,NA,Solitary,Bisexual
+Lepilemur_milanoii,NA,NA,NA
+Lepilemur_mittermeieri,NA,NA,NA
+Lepilemur_mustelinus,Spatial Polygyny,Solitary,Bisexual
+Lepilemur_otto,NA,NA,NA
+Lepilemur_petteri,NA,NA,NA
+Lepilemur_randrianasoloi,NA,Solitary,NA
+Lepilemur_ruficaudatus,Spatial Polygyny,Solitary,Bisexual
+Lepilemur_sahamalazensis,NA,Solitary,NA
+Lepilemur_scottorum,NA,NA,NA
+Lepilemur_seali,NA,Solitary,NA
+Lepilemur_septentrionalis,NA,Solitary,Bisexual
+Lepilemur_tymerlachsoni,NA,NA,NA
+Lepilemur_wrightae,NA,NA,NA
+Arctocebus_aureus,NA,NA,NA
+Arctocebus_calabarensis,Spatial Polygyny,Solitary,Bisexual
+Loris_lydekkerianus,NA,Solitary,NA
+Loris_tardigradus,Spatial Polygyny,Solitary,Bisexual
+Nycticebus_bancanus,NA,NA,NA
+Nycticebus_bengalensis,NA,NA,NA
+Nycticebus_borneanus,NA,NA,NA
+Nycticebus_coucang,Spatial Polygyny,Solitary,Bisexual
+Nycticebus_javanicus,NA,NA,NA
+Nycticebus_kayan,NA,NA,NA
+Nycticebus_menagensis,NA,NA,NA
+Nycticebus_pygmaeus,Spatial Polygyny,Solitary,Bisexual
+Perodicticus_edwardsi,NA,NA,NA
+Perodicticus_ibeanus,NA,NA,NA
+Perodicticus_potto,Spatial Polygyny,Solitary,Bisexual
+Carlito_syrichta,Spatial Polygyny,Solitary,Bisexual
+Cephalopachus_bancanus,Spatial Polygyny,Solitary,Bisexual
+Tarsius_dentatus,NA,NA,NA
+Tarsius_fuscus,NA,NA,NA
+Tarsius_lariang,NA,NA,NA
+Tarsius_pelengensis,NA,NA,NA
+Tarsius_pumilus,NA,NA,NA
+Tarsius_sangirensis,NA,NA,NA
+Tarsius_spectrumgurskyae,NA,NA,NA
+Tarsius_supriatnai,NA,NA,NA
+Tarsius_tarsier,NA,NA,NA
+Tarsius_tumpara,NA,NA,NA
+Tarsius_wallacei,NA,NA,NA
