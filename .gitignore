@@ -143,3 +143,4 @@ sandbox/
 mmul_ref/
 dna/
 data/*/*
+*gz
